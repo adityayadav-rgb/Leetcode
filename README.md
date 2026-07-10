@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adityayadav-rgb/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adityayadav-rgb/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityayadav-rgb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adityayadav-rgb/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
