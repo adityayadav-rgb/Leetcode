@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1014-best-sightseeing-pair](https://github.com/adityayadav-rgb/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0867-transpose-matrix) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adityayadav-rgb/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1014-best-sightseeing-pair](https://github.com/adityayadav-rgb/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
