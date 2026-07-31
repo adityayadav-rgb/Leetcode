@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1014-best-sightseeing-pair](https://github.com/adityayadav-rgb/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityayadav-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
