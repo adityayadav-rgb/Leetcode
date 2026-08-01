@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adityayadav-rgb/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1014-best-sightseeing-pair](https://github.com/adityayadav-rgb/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityayadav-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
