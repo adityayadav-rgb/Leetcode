@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/adityayadav-rgb/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/adityayadav-rgb/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adityayadav-rgb/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/adityayadav-rgb/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0867-transpose-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/adityayadav-rgb/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adityayadav-rgb/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adityayadav-rgb/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
