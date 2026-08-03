@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/0330-patching-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityayadav-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
