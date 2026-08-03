@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
