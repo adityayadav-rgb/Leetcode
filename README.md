@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
+| [1529-minimum-suffix-flips](https://github.com/adityayadav-rgb/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityayadav-rgb/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/adityayadav-rgb/Leetcode/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityayadav-rgb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1529-minimum-suffix-flips](https://github.com/adityayadav-rgb/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/adityayadav-rgb/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
