@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0799-champagne-tower](https://github.com/adityayadav-rgb/Leetcode/tree/master/0799-champagne-tower) |
 | [1014-best-sightseeing-pair](https://github.com/adityayadav-rgb/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
