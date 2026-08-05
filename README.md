@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/adityayadav-rgb/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/adityayadav-rgb/Leetcode/tree/master/3731-find-missing-elements) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityayadav-rgb/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityayadav-rgb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityayadav-rgb/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
