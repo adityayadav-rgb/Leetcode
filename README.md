@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityayadav-rgb/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityayadav-rgb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityayadav-rgb/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adityayadav-rgb/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/adityayadav-rgb/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityayadav-rgb/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/adityayadav-rgb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityayadav-rgb/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adityayadav-rgb/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityayadav-rgb/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityayadav-rgb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityayadav-rgb/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adityayadav-rgb/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3731-find-missing-elements](https://github.com/adityayadav-rgb/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
